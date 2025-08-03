@@ -21,7 +21,7 @@ It’s basically a page that rolls two dice and tells you who wins — Player 1,
    
 ## 🔗 Live Demo
 
-Try it here 👉 [Roll the Dice on Netlify](https://jsdiceegame.netlify.app/)
+Try it here 👉 [Roll the Dice](https://jsdiceegame.netlify.app/)
 
 
 ## ⚠️ Disclaimer:

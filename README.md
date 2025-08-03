@@ -18,6 +18,8 @@ It’s basically a page that rolls two dice and tells you who wins — Player 1,
 1. Open the page.
 2. Refresh.
 3. Boom! Instant winner. Or not.
+4. Wanna try your luck?  
+👉 [Click here to roll the dice](https://your-github-username.github.io/dice-game/)  
 
 ## ⚠️ Disclaimer:
 
